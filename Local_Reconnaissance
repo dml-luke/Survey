@@ -1,0 +1,46 @@
+# INTRODUCTION
+Hello, DML_Luke here, I conducted a short survey or rather more suitably a reconnaissance on my own. This data focuses on the different encryptions and network security currently used by people in a small part of Southern India for their 2.4 Ghz Wi-Fi routers, mobile hotspots and similar networks.
+**The purpose of this reconnaissance is to provide awareness among people as there are a lot of vulnerabilities on older encryption styles such as WPA2.**
+**By no means I am getting any profit out of this, this data was collected purely for ethical purposes especially to create a sense of awareness and I would like it to remain so.**
+
+## MATERIALS USED TO CONDUCT THIS
+- An Esp32-S3 Mini
+- Uploaded An Available Wi-Fi Scanning Code
+- An USB C To USB C type cable (I Do Not Possess A Power Bank)
+- Mobile (Used Cable To Power Esp32 via my Mobile)
+
+## GUIDE FOR READERS
+- **FREQUENCY:-**There are commonly two frequencies of Wi-Fi used often, 2.4 GHz and 5 Ghz. 2.4 GHz covers a wide area but has lower speed than 5 GHz while 5 GHz has higher speed but covers a shorter area.
+- **SSID:-**This refers to the name of a Wi-Fi router, mobile hotspot or similar networks. Example:- Luke's Wifi, StarBucks, etc.
+- **RSSI:-**This refers to the strength of signal of the Wi-Fi. (AKA the wifi icon that shows how close or far away you are from the network.
+- **ENCRYPTION:-**This refers to the security protocol of a wireless network, there are many protocols but i only mapped WPA, WPA2, OPEN, WEP, WPA/WPA2 and WPA3. It's confusing but think of it as a level of security. WPA3 has the highest level of security as of today (February 14, 2026) WPA3 is the best level of security.
+
+##DETAILS ABOUT THE SCAN
+- Every technical terms has been explained deeply in an easy to understand manner for the readers, for further queries, feel free to DM me!
+- The scan ONLY mapped out 2.4 GHz Networks and failed to map out 5 GHz Networks.
+- The scan was taken every FIVE seconds for a travel time of TWO hours in a car. 
+- The scan started as the initial point as my home city and continued for 36km of travel to a rural village.
+- Networks of the city, village and the surroundingly situated conurbations.
+This contained over 100+ Networks which took me a span of 3 Weeks to sort it out clearly and provide information that is true and to avoid spreading misinformation. 
+
+# RESULTS OF RECONNAISSANCE ON LOCAL AREA
+The scan mapped out the details of PRECISELY 174 Networks, which included the networks owned and used by homes, local businesses, government tech facilities like traffic cameras, etc.
+Among these 174 Networks, the encrypted Wi-Fi can be classified into 6 different ones:-
+WPA:- 3
+WPA2:- 92
+OPEN:- 8
+WEP:- 0
+WPA/WPA2:- 71
+WPA3:- 0
+
+## EACH PROTOCOL'S USE IN EASY TERMS FOR THE READERS
+**OPEN:-**This type of wifi requires no password, anyone can directly connect. HOWEVER, it is risky as ANYONE can connect to the wifi and access it's data.
+**WEP:-**This type of wifi was meant for the very old security systems and computers. Exploiters (Hackers) can easily crack this protocol in minutes, effortlessly.
+**WPA:-**This type of wifi is an Improved Version of WEP however, it is also outdated and easy to crack and break into. It is rarely used in modern routers, If you are using this, it is recommended to upgrade your router's software or buy a new hardware.
+**WPA2:-**As per accordance to the RESULT above, it is the most common type of encryption as of TODAY (February 14, 2026). It is great because, it is hard to crack and break into, used widely in local businesses and homes. However basic passwords are VERY vulnerable and easy to crack as exploiters can crack it within minutes.
+          That is exactly why you should set strong passwords like "#9VE@z9LHa%I4>@v". With strong passwords you can rest assured that NO ONE will be able to crack it.
+**WPA/WPA2:-**This type of wifi can be explained as a sort of mixed mode between WPA and WPA2, it is weaker than pure WPA2 and is meant for compatibility with old devices. As per accordance to the result above we can say that it takes the second place among most used protocols.
+**WPA3:-**This type of wifi is the LATEST and BEST wifi security standard, it is better due to stronger protection against bruteforcing, better security even on public wifi and it is designed for modern attacks. However most Internet providing companies like JIO and Airtel have released new routers for WPA3 as old ones do not support it. Moreover, there has been no mentions of BSNL routers supporting WPA3 as of now (February 14,2026).
+
+# CONCLUSION
+Therefore, this marks the end of the reconnaissance. The reason I took this is because I noticed how unsafe the networks around my home were and realized how easily data can be compromised. Hence, I wanted to spread awareness amongst family, friends and locals which led to me writing this short analysis. Thank you for taking your time and reading this, for further queries feel free to DM me! 
