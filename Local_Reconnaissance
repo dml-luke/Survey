@@ -4,7 +4,7 @@ Hello, DML_Luke here, I conducted a short survey or rather more suitably a recon
 
 **The purpose of this reconnaissance is to provide awareness among people as there are a lot of vulnerabilities on older encryption styles such as WPA2.**
 
-**By no means I am getting any profit out of this, this data was collected purely for ethical purposes especially to create a sense of awareness and I would like it to remain so.**
+**By no means am I extracting any profit out of this, this data was collected purely for ethical purposes especially to create a sense of awareness and I would like it to remain so.**
 
 ---
 
@@ -31,7 +31,7 @@ Hello, DML_Luke here, I conducted a short survey or rather more suitably a recon
 
 ##DETAILS ABOUT THE SCAN
 
-- Every technical terms has been explained deeply in an easy to understand manner for the readers, for further queries, feel free to DM me!
+- Every technical terms has been explained deeply in an easy to understand manner for the readers, for further queries, feel free to DM me! 
 - The scan ONLY mapped out 2.4 GHz Networks and failed to map out 5 GHz Networks.
 - The scan was taken every FIVE seconds for a travel time of TWO hours in a car.
 - The scan started as the initial point as my home city and continued for 36km of travel to a rural village.
@@ -56,11 +56,11 @@ Among these 174 Networks, the encrypted Wi-Fi can be classified into 6 different
 
 ---
 
-## EACH PROTOCOL'S USE IN EASY TERMS FOR THE READERS
+## EACH PROTOCOL'S USES IN EASY TERMS FOR THE READERS:
 
-**OPEN:-** This type of wifi requires no password, anyone can directly connect. HOWEVER, it is risky as ANYONE can connect to the wifi and access it's data.
+**OPEN:-** This type of wifi requires no password, anyone can directly connect. HOWEVER, it is risky as ANYONE can connect to the wifi and access it's data. It could also be potentially dangerous to connect to unknown networks so be wary.
 
-**WEP:-** This type of wifi was meant for the very old security systems and computers. Exploiters (Hackers) can easily crack this protocol in minutes, effortlessly.
+**WEP:-** This type of wifi was meant for the very old security systems and computers. Exploiters (Hackers) can easily crack this protocol in minutes, effortlessly if misconfigured, that is, really weak passwords like 12345678 or 'spiderman'.
 
 **WPA:-** This type of wifi is an Improved Version of WEP however, it is also outdated and easy to crack and break into. It is rarely used in modern routers, If you are using this, it is recommended to upgrade your router's software or buy a new hardware.
 
@@ -68,10 +68,10 @@ Among these 174 Networks, the encrypted Wi-Fi can be classified into 6 different
 
 **WPA/WPA2:-** This type of wifi can be explained as a sort of mixed mode between WPA and WPA2, it is weaker than pure WPA2 and is meant for compatibility with old devices. As per accordance to the result above we can say that it takes the second place among most used protocols.
 
-**WPA3:-** This type of wifi is the LATEST and BEST wifi security standard, it is better due to stronger protection against bruteforcing, better security even on public wifi and it is designed for modern attacks. However most Internet providing companies like JIO and Airtel have released new routers for WPA3 as old ones do not support it. Moreover, there has been no explicit mentions of BSNL routers supporting WPA3 as of now (February 14,2026).
+**WPA3:-** This type of wifi is the LATEST and BEST wifi security standard, it is better due to stronger protection against bruteforcing, better security even on public wifi and it is designed for modern attacks. However most Internet providing companies like JIO and Airtel have released new routers for WPA3 as old ones do not support it. Moreover, there has been no explicit mentions atleast official ones, of BSNL routers supporting WPA3 as of now (February 14,2026).
 
 ---
 
 # CONCLUSION
 
-Therefore, this marks the end of the reconnaissance. I would like to state that Security depends manly on configuration, firmware updates and user password practices.The reason I took this is because, I noticed
+Therefore, this marks the end of the reconnaissance. I would like to state that Security depends mainly on configuration, firmware updates and user password practices. The reason I took this is because, I noticed how insecure the networks around my home were. Hopefully this raises awareness and helps people maintain their networks safely.
